@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.container{
+    width: 30%;
+    height: 380px;
+    background-color: lawngreen;
+}
+
+h2{
+    padding-top: 10px;
+}
+
+p{
+    padding: 10px;
+}
+
+#result{
+    padding: 20px;
+    font-size: 1.5rem;
+    color: black;
+}
+
+button{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
