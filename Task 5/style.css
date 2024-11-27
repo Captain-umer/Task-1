@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(3, 3, 3);
+    color: white;
+}
+
+.container{
+    background-color: white;
+    color: black;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+form .submit{
+    margin-left: 50px;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.user-info{
+    background-color: bisque;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
